@@ -1,2 +1,1 @@
-# KMeans-and-Agglomerative-Clustering-on-Mall-Customers-dataset
-Kmeans &amp; Hierarchical Agglomerative Clustering algorithms implementation on Mall Customers dataset
+In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types tomers dataset
